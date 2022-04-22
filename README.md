@@ -112,6 +112,7 @@
 | Aurora | [aurora7t7en7racqbytspft6myxds25hnczjk56tvqev2bziir74t4yd.onion](http://aurora7t7en7racqbytspft6myxds25hnczjk56tvqev2bziir74t4yd.onion) |
 | Buy Real Money | [buyreal2xipzjhjfhyztle35dknfexgqrpq4dmzvkc575kzi3vr6bmid.onion](http://buyreal2xipzjhjfhyztle35dknfexgqrpq4dmzvkc575kzi3vr6bmid.onion) |
 | Dark0de | [darkoddrkj3gqz7ke7nyjfkh7o72hlvr44uz5zl2xrapna4tribuorqd.onion](http://darkoddrkj3gqz7ke7nyjfkh7o72hlvr44uz5zl2xrapna4tribuorqd.onion) |
+| DarkBay | [darkbayx7a4sosoo4hqvoljqelgkusjlrqmt237ls6hndbplmel55oad.onion](http://darkbayx7a4sosoo4hqvoljqelgkusjlrqmt237ls6hndbplmel55oad.onion) |
 | DarkFox | [57d5j6hfzfpsfev6c7f5ltney5xahudevvttfmw4lrtkt42iqdrkxmqd.onion](http://57d5j6hfzfpsfev6c7f5ltney5xahudevvttfmw4lrtkt42iqdrkxmqd.onion) |
 | Drugs Empire | [drugsednqhasbyoyg2oekzbnllbujro54zrogqbf3p6e7qflxti5eeqd.onion](http://drugsednqhasbyoyg2oekzbnllbujro54zrogqbf3p6e7qflxti5eeqd.onion) |
 | Horizon | [wfhk7qy6ycihylvls7xrmlyp3elin3k6ezyee4ovp3oj2wudrhmhgwid.onion](http://wfhk7qy6ycihylvls7xrmlyp3elin3k6ezyee4ovp3oj2wudrhmhgwid.onion) |
