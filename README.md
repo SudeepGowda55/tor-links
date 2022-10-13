@@ -11,7 +11,8 @@
 | Shops Dir | [vxmua4uvg7vp5ssnvx5gexrr2nxso3wwvjwagdub67vcombj4kf4i4qd.onion](http://vxmua4uvg7vp5ssnvx5gexrr2nxso3wwvjwagdub67vcombj4kf4i4qd.onion) |
 | Mega Links | [mega7hxbfrjay3qkavy6jw2hw6lvkanaojxuottd45m4i4qr5wdenyad.onion](http://mega7hxbfrjay3qkavy6jw2hw6lvkanaojxuottd45m4i4qr5wdenyad.onion) |
 | Hidden Links | [wclekwrf2aclunlmuikf2bopusjfv66jlhwtgbiycy5nw524r6ngioid.onion](http://wclekwrf2aclunlmuikf2bopusjfv66jlhwtgbiycy5nw524r6ngioid.onion) |
-| Tor Node | [e6wzjohnxejirqa2sgridvymv2jxhrqdfuyxvoxp3xpqh7kr4kbwpwad.onion](http://e6wzjohnxejirqa2sgridvymv2jxhrqdfuyxvoxp3xpqh7kr4kbwpwad.onion) |
+| Nexus | [nexusxg6rr5e2ue6gdjo6oassw36lsx5cx6y3r5ojneo53kynv3rqgyd.onion](http://nexusxg6rr5e2ue6gdjo6oassw36lsx5cx6y3r5ojneo53kynv3rqgyd.onion) |
+| Tor Node | [tornode3tnrtzgqwd3vmxdumucddqfd6zk7icu4wzdwxo5c3zn2xqfqd.onion](http://tornode3tnrtzgqwd3vmxdumucddqfd6zk7icu4wzdwxo5c3zn2xqfqd.onion) |
 | Tor Links | [torlinkv7cft5zhegrokjrxj2st4hcimgidaxdmcmdpcrnwfxrr2zxqd.onion](http://torlinkv7cft5zhegrokjrxj2st4hcimgidaxdmcmdpcrnwfxrr2zxqd.onion) |
 
 ## Search engines
@@ -21,8 +22,9 @@
 | FindTor | [findtorroveq5wdnipkaojfpqulxnkhblymc7aramjzajcvpptd4rjqd.onion](http://findtorroveq5wdnipkaojfpqulxnkhblymc7aramjzajcvpptd4rjqd.onion) |
 | Torch | [torchdeedp3i2jigzjdmfpn5ttjhthh5wbmda2rr3jvqjg5p77c54dqd.onion](http://torchdeedp3i2jigzjdmfpn5ttjhthh5wbmda2rr3jvqjg5p77c54dqd.onion) |
 | TorDex | [tordexu73joywapk2txdr54jed4imqledpcvcuf75qsas2gwdgksvnyd.onion](http://tordexu73joywapk2txdr54jed4imqledpcvcuf75qsas2gwdgksvnyd.onion) |
-| Demon | [srcdemonm74icqjvejew6fprssuolyoc2usjdwflevbdpqoetw4x3ead.onion](http://srcdemonm74icqjvejew6fprssuolyoc2usjdwflevbdpqoetw4x3ead.onion) |
 | Ahmia | [ahmiacawquincyw7d4kmsopfi667eqdhuva3sxfpxiqymmojzb7fchad.onion](http://ahmiacawquincyw7d4kmsopfi667eqdhuva3sxfpxiqymmojzb7fchad.onion) |
+| Amnesia | [amnesia7u5odx5xbwtpnqk3edybgud5bmiagu75bnqx2crntw5kry7ad.onion](http://amnesia7u5odx5xbwtpnqk3edybgud5bmiagu75bnqx2crntw5kry7ad.onion) |
+| Demon | [srcdemonm74icqjvejew6fprssuolyoc2usjdwflevbdpqoetw4x3ead.onion](http://srcdemonm74icqjvejew6fprssuolyoc2usjdwflevbdpqoetw4x3ead.onion) |
 | Sentor | [e27slbec2ykiyo26gfuovaehuzsydffbit5nlxid53kigw3pvz6uosqd.onion](http://e27slbec2ykiyo26gfuovaehuzsydffbit5nlxid53kigw3pvz6uosqd.onion) |
 | Kraken | [krakenai2gmgwwqyo7bcklv2lzcvhe7cxzzva2xpygyax5f33oqnxpad.onion](http://krakenai2gmgwwqyo7bcklv2lzcvhe7cxzzva2xpygyax5f33oqnxpad.onion) |
 | Haystak | [haystak5njsmn2hqkewecpaxetahtwhsbsa64jom2k22z5afxhnpxfid.onion](http://haystak5njsmn2hqkewecpaxetahtwhsbsa64jom2k22z5afxhnpxfid.onion) |
@@ -70,7 +72,8 @@
 | --- | --- |
 | ProtonMail | [protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion](http://protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion) |
 | DNMX | [hxuzjtocnzvv5g2rtg2bhwkcbupmk7rclb6lly3fo4tvqkk5oyrv3nid.onion](http://hxuzjtocnzvv5g2rtg2bhwkcbupmk7rclb6lly3fo4tvqkk5oyrv3nid.onion) |
-| CTemplar | [ctemplarpizuduxk3fkwrieizstx33kg5chlvrh37nz73pv5smsvl6ad.onion](http://ctemplarpizuduxk3fkwrieizstx33kg5chlvrh37nz73pv5smsvl6ad.onion) |
+| Mail2Tor | [mail2torjgmxgexntbrmhvgluavhj7ouul5yar6ylbvjkxwqf6ixkwyd.onion](http://mail2torjgmxgexntbrmhvgluavhj7ouul5yar6ylbvjkxwqf6ixkwyd.onion) |
+| Onion Mail | [pflujznptk5lmuf6xwadfqy6nffykdvahfbljh7liljailjbxrgvhfid.onion](http://pflujznptk5lmuf6xwadfqy6nffykdvahfbljh7liljailjbxrgvhfid.onion) |
 | Elude | [eludemailxhnqzfmxehy3bk5guyhlxbunfyhkcksv4gvx6d3wcf6smad.onion](http://eludemailxhnqzfmxehy3bk5guyhlxbunfyhkcksv4gvx6d3wcf6smad.onion) |
 
 ## Social
@@ -92,6 +95,8 @@
 | --- | --- |
 | SecureDrop | [sdolvtfhatvsysc6l34d65ymdwxcujausv7k5jk4cy5ttzhjoi6fzvyd.onion](http://sdolvtfhatvsysc6l34d65ymdwxcujausv7k5jk4cy5ttzhjoi6fzvyd.onion) |
 | Flashlight 2.0 | [ovgl57qc3a5abwqgdhdtssvmydr6f6mjz6ey23thwy63pmbxqmi45iid.onion](http://ovgl57qc3a5abwqgdhdtssvmydr6f6mjz6ey23thwy63pmbxqmi45iid.onion) |
+| Dark Matter | [dark3i5wry7zl7hdpmidmaflve7cmxzhvhpoutrryb5vd44qc52tbhad.onion](http://dark3i5wry7zl7hdpmidmaflve7cmxzhvhpoutrryb5vd44qc52tbhad.onion) |
+| ProPublica | [p53lf57qovyuvwsc6xnrppyply3vtqm7l6pcobkmyqsiofyeznfu5uqd.onion](http://p53lf57qovyuvwsc6xnrppyply3vtqm7l6pcobkmyqsiofyeznfu5uqd.onion) |
 
 ## Books
 
@@ -119,6 +124,7 @@
 | Imperial | [shop6bpuax4uk53slpyt56bhl43f2cefpcejwyrbtvcfugujldt3eyqd.onion](http://shop6bpuax4uk53slpyt56bhl43f2cefpcejwyrbtvcfugujldt3eyqd.onion) |
 | PayPal World | [h56izbbvplxoedu7rnqyzgqkkxrriqhoq6kl4g3xx2mjwauxdpyuhlqd.onion](http://h56izbbvplxoedu7rnqyzgqkkxrriqhoq6kl4g3xx2mjwauxdpyuhlqd.onion) |
 | ToRReZ | [yxuy5oau7nugw4kpb4lclrqdbixp3wvc4iuiad23ebyp2q3gx7rtrgqd.onion](http://yxuy5oau7nugw4kpb4lclrqdbixp3wvc4iuiad23ebyp2q3gx7rtrgqd.onion) |
+| Top Money | [money76mmbh7dnuq6en3b6d7hmvm4fuolkser2ui7u46ib2utrjnw4ad.onion](http://money76mmbh7dnuq6en3b6d7hmvm4fuolkser2ui7u46ib2utrjnw4ad.onion) |
 | Tor Guns | [gunsiqvaicyzyq7xqm2c3xshl6pjegtxjf3m3ldms2fo52lqvrmvbyyd.onion](http://gunsiqvaicyzyq7xqm2c3xshl6pjegtxjf3m3ldms2fo52lqvrmvbyyd.onion) |
 | TorBuy | [torbuyjiwzgtnmieg62urzu3mfjzv35dt4ghpal3qkugzrq74urt45yd.onion](http://torbuyjiwzgtnmieg62urzu3mfjzv35dt4ghpal3qkugzrq74urt45yd.onion) |
 | Vice City | [vice2e3gr3pmaikukidllstulxvkb7a247gkguihzvyk3gqwdpolqead.onion](http://vice2e3gr3pmaikukidllstulxvkb7a247gkguihzvyk3gqwdpolqead.onion) |
@@ -129,6 +135,7 @@
 | Other | URL |
 | --- | --- |
 | Beneath VT | [bvten5svsltfpxrxl72ukqxixwo2m5ek5svmcxgrmkta4tbmiemuibid.onion](http://bvten5svsltfpxrxl72ukqxixwo2m5ek5svmcxgrmkta4tbmiemuibid.onion) |
+| EscrowLab | [escrow4ywsfqnccvrikzdkk7dky35inn7uxb3qhid5uvcklsocwdvhid.onion](http://escrow4ywsfqnccvrikzdkk7dky35inn7uxb3qhid5uvcklsocwdvhid.onion) |
 | EtherCalc | [bcton4zbvzauoufghypxhuslbfcch44akcn3geedhf4nk2vlqdb25ryd.onion](http://bcton4zbvzauoufghypxhuslbfcch44akcn3geedhf4nk2vlqdb25ryd.onion) |
 | Helix Mixer | [helixp2algkyxnxj3aerkmg5rmnom2swneyxtuzibq2heqd54ja43jid.onion](http://helixp2algkyxnxj3aerkmg5rmnom2swneyxtuzibq2heqd54ja43jid.onion) |
 | Hidden Reviews | [u5lyidiw4lpkonoctpqzxgyk6xop7w7w3oho4dzzsi272rwnjhyx7ayd.onion](http://u5lyidiw4lpkonoctpqzxgyk6xop7w7w3oho4dzzsi272rwnjhyx7ayd.onion) |
