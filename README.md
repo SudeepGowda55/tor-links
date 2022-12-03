@@ -1,4 +1,4 @@
-# Tor link list 2022
+# Tor link list 2023
 
 :warning: The following links work only in Tor Browser. Download it from: https://www.torproject.org/download/
 
@@ -83,8 +83,10 @@
 | Facebook | [facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion](http://facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion) |
 | Ramble | [rambleeeqrhty6s5jgefdfdtc6tfgg4jj6svr4jpgk4wjtg3qshwbaad.onion](http://rambleeeqrhty6s5jgefdfdtc6tfgg4jj6svr4jpgk4wjtg3qshwbaad.onion) |
 | Dread | [dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion](http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion) |
+| Reddit | [reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion](https://www.reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion) |
 | Hidden Answers | [7eoz4h2nvw4zlr7gvlbutinqqpm546f5egswax54az6lt2u7e3t6d7yd.onion](http://7eoz4h2nvw4zlr7gvlbutinqqpm546f5egswax54az6lt2u7e3t6d7yd.onion) |
 | Nitter | [3nzoldnxplag42gqjs23xvghtzf6t6yzssrtytnntc6ppc7xxuoneoad.onion](http://3nzoldnxplag42gqjs23xvghtzf6t6yzssrtytnntc6ppc7xxuoneoad.onion) |
+| Twitter | [twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion](https://twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion) |
 | Keybase | [keybase5wmilwokqirssclfnsqrjdsi7jdir5wy7y7iu3tanwmtp6oid.onion](http://keybase5wmilwokqirssclfnsqrjdsi7jdir5wy7y7iu3tanwmtp6oid.onion) |
 | Dig Deeper | [digdeep4orxw6psc33yxa2dgmuycj74zi6334xhxjlgppw6odvkzkiad.onion](http://digdeep4orxw6psc33yxa2dgmuycj74zi6334xhxjlgppw6odvkzkiad.onion) |
 | DEF CON | [ezdhgsy2aw7zg54z6dqsutrduhl22moami5zv2zt6urr6vub7gs6wfad.onion](http://ezdhgsy2aw7zg54z6dqsutrduhl22moami5zv2zt6urr6vub7gs6wfad.onion) |
@@ -97,6 +99,8 @@
 | Flashlight 2.0 | [ovgl57qc3a5abwqgdhdtssvmydr6f6mjz6ey23thwy63pmbxqmi45iid.onion](http://ovgl57qc3a5abwqgdhdtssvmydr6f6mjz6ey23thwy63pmbxqmi45iid.onion) |
 | Dark Matter | [dark3i5wry7zl7hdpmidmaflve7cmxzhvhpoutrryb5vd44qc52tbhad.onion](http://dark3i5wry7zl7hdpmidmaflve7cmxzhvhpoutrryb5vd44qc52tbhad.onion) |
 | ProPublica | [p53lf57qovyuvwsc6xnrppyply3vtqm7l6pcobkmyqsiofyeznfu5uqd.onion](http://p53lf57qovyuvwsc6xnrppyply3vtqm7l6pcobkmyqsiofyeznfu5uqd.onion) |
+| The Intercept | [27m3p2uv7igmj6kvd4ql3cct5h3sdwrsajovkkndeufumzyfhlfev4qd.onion](https://27m3p2uv7igmj6kvd4ql3cct5h3sdwrsajovkkndeufumzyfhlfev4qd.onion) |
+| BBC News | [bbcnewsd73hkzno2ini43t4gblxvycyac5aw4gnv7t2rccijh7745uqd.onion](https://www.bbcnewsd73hkzno2ini43t4gblxvycyac5aw4gnv7t2rccijh7745uqd.onion) |
 
 ## Books
 
@@ -106,6 +110,8 @@
 | Imperial Library | [kx5thpx2olielkihfyo4jgjqfb7zx7wxr3sd4xzt26ochei4m6f7tayd.onion](http://kx5thpx2olielkihfyo4jgjqfb7zx7wxr3sd4xzt26ochei4m6f7tayd.onion) |
 | Just Another Library | [libraryfyuybp7oyidyya3ah5xvwgyx6weauoini7zyz555litmmumad.onion](http://libraryfyuybp7oyidyya3ah5xvwgyx6weauoini7zyz555litmmumad.onion) |
 | GenoType.INC | [libgenfrialc7tguyjywa36vtrdcplwpxaw43h6o63dmmwhvavo5rqqd.onion](http://libgenfrialc7tguyjywa36vtrdcplwpxaw43h6o63dmmwhvavo5rqqd.onion) |
+| Z-Library | [zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion](http://zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion) |
+| The Pirate Bay | [piratebayo3klnzokct3wt5yyxb2vpebbuyjl7m623iaxmqhsd52coid.onion](http://piratebayo3klnzokct3wt5yyxb2vpebbuyjl7m623iaxmqhsd52coid.onion) |
 | Tor Guide | [guideeedvgbpkthetphncab5aqj7dp5t74y7vxsoonnvmaeamq74vuqd.onion](http://guideeedvgbpkthetphncab5aqj7dp5t74y7vxsoonnvmaeamq74vuqd.onion) |
 
 ## Markets
@@ -120,6 +126,7 @@
 | DarkBay | [darkbayx7a4sosoo4hqvoljqelgkusjlrqmt237ls6hndbplmel55oad.onion](http://darkbayx7a4sosoo4hqvoljqelgkusjlrqmt237ls6hndbplmel55oad.onion) |
 | DarkFox | [57d5j6hfzfpsfev6c7f5ltney5xahudevvttfmw4lrtkt42iqdrkxmqd.onion](http://57d5j6hfzfpsfev6c7f5ltney5xahudevvttfmw4lrtkt42iqdrkxmqd.onion) |
 | Drugs Empire | [drugsednqhasbyoyg2oekzbnllbujro54zrogqbf3p6e7qflxti5eeqd.onion](http://drugsednqhasbyoyg2oekzbnllbujro54zrogqbf3p6e7qflxti5eeqd.onion) |
+| Hacked Databases | [hackedabm6ejvmh7xiiqdq3ptflorhdvjurhheqbovlu64xi3zbrlpad.onion](http://hackedabm6ejvmh7xiiqdq3ptflorhdvjurhheqbovlu64xi3zbrlpad.onion) |
 | Horizon | [wfhk7qy6ycihylvls7xrmlyp3elin3k6ezyee4ovp3oj2wudrhmhgwid.onion](http://wfhk7qy6ycihylvls7xrmlyp3elin3k6ezyee4ovp3oj2wudrhmhgwid.onion) |
 | Imperial | [shop6bpuax4uk53slpyt56bhl43f2cefpcejwyrbtvcfugujldt3eyqd.onion](http://shop6bpuax4uk53slpyt56bhl43f2cefpcejwyrbtvcfugujldt3eyqd.onion) |
 | PayPal World | [h56izbbvplxoedu7rnqyzgqkkxrriqhoq6kl4g3xx2mjwauxdpyuhlqd.onion](http://h56izbbvplxoedu7rnqyzgqkkxrriqhoq6kl4g3xx2mjwauxdpyuhlqd.onion) |
@@ -137,9 +144,9 @@
 | Beneath VT | [bvten5svsltfpxrxl72ukqxixwo2m5ek5svmcxgrmkta4tbmiemuibid.onion](http://bvten5svsltfpxrxl72ukqxixwo2m5ek5svmcxgrmkta4tbmiemuibid.onion) |
 | EscrowLab | [escrow4ywsfqnccvrikzdkk7dky35inn7uxb3qhid5uvcklsocwdvhid.onion](http://escrow4ywsfqnccvrikzdkk7dky35inn7uxb3qhid5uvcklsocwdvhid.onion) |
 | EtherCalc | [bcton4zbvzauoufghypxhuslbfcch44akcn3geedhf4nk2vlqdb25ryd.onion](http://bcton4zbvzauoufghypxhuslbfcch44akcn3geedhf4nk2vlqdb25ryd.onion) |
-| Helix Mixer | [helixp2algkyxnxj3aerkmg5rmnom2swneyxtuzibq2heqd54ja43jid.onion](http://helixp2algkyxnxj3aerkmg5rmnom2swneyxtuzibq2heqd54ja43jid.onion) |
 | Hidden Reviews | [u5lyidiw4lpkonoctpqzxgyk6xop7w7w3oho4dzzsi272rwnjhyx7ayd.onion](http://u5lyidiw4lpkonoctpqzxgyk6xop7w7w3oho4dzzsi272rwnjhyx7ayd.onion) |
 | Privacy International | [privacy2ws3ora5p4qpzptqr32qm54gf5ifyzvo5bhl7bb254c6nbiyd.onion](http://privacy2ws3ora5p4qpzptqr32qm54gf5ifyzvo5bhl7bb254c6nbiyd.onion) |
+| Satanic Ceremony | [ho2hua2hfduv6f7hcbzdj2e6qdn4szgyy2jjnx545v4z3epq7uyrscid.onion](http://ho2hua2hfduv6f7hcbzdj2e6qdn4szgyy2jjnx545v4z3epq7uyrscid.onion) |
 
 # How to access darknet?
 
