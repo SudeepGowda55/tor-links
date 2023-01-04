@@ -9,7 +9,7 @@
 | Darknet Home | [catalogpwwlccc5nyp3m3xng6pdx3rdcknul57x6raxwf4enpw3nymqd.onion](http://catalogpwwlccc5nyp3m3xng6pdx3rdcknul57x6raxwf4enpw3nymqd.onion) |
 | Dark Dir | [l7vh56hxm3t4tzy75nxzducszppgi45fyx2wy6chujxb2rhy7o5r62ad.onion](http://l7vh56hxm3t4tzy75nxzducszppgi45fyx2wy6chujxb2rhy7o5r62ad.onion) |
 | Shops Dir | [vxmua4uvg7vp5ssnvx5gexrr2nxso3wwvjwagdub67vcombj4kf4i4qd.onion](http://vxmua4uvg7vp5ssnvx5gexrr2nxso3wwvjwagdub67vcombj4kf4i4qd.onion) |
-| Mega Links | [mega7hxbfrjay3qkavy6jw2hw6lvkanaojxuottd45m4i4qr5wdenyad.onion](http://mega7hxbfrjay3qkavy6jw2hw6lvkanaojxuottd45m4i4qr5wdenyad.onion) |
+| Mega Links | [megalzwink435kangsseahebpbp3teedi4jjt64ne2g6d3oqy3qlweid.onion](http://megalzwink435kangsseahebpbp3teedi4jjt64ne2g6d3oqy3qlweid.onion) |
 | Hidden Links | [wclekwrf2aclunlmuikf2bopusjfv66jlhwtgbiycy5nw524r6ngioid.onion](http://wclekwrf2aclunlmuikf2bopusjfv66jlhwtgbiycy5nw524r6ngioid.onion) |
 | Nexus | [nexusxg6rr5e2ue6gdjo6oassw36lsx5cx6y3r5ojneo53kynv3rqgyd.onion](http://nexusxg6rr5e2ue6gdjo6oassw36lsx5cx6y3r5ojneo53kynv3rqgyd.onion) |
 | Tor Node | [tornode3tnrtzgqwd3vmxdumucddqfd6zk7icu4wzdwxo5c3zn2xqfqd.onion](http://tornode3tnrtzgqwd3vmxdumucddqfd6zk7icu4wzdwxo5c3zn2xqfqd.onion) |
