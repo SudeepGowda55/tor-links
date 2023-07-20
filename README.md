@@ -35,6 +35,7 @@
 | TorBot | [torbotzotnpygayi724oewxnynjp4pwumgmpiy3hljwuou3enxiyq3qd.onion](http://torbotzotnpygayi724oewxnynjp4pwumgmpiy3hljwuou3enxiyq3qd.onion) |
 | Fenix | [fenixnjoy6gcmcihl5fnhjqw6k7j6ujvggk4467cgl5lfsoingndoeyd.onion](http://fenixnjoy6gcmcihl5fnhjqw6k7j6ujvggk4467cgl5lfsoingndoeyd.onion) |
 | TorLanD | [torlgu6zhhtwe73fdu76uiswgnkfvukqfujofxjfo7vzoht2rndyhxyd.onion](http://torlgu6zhhtwe73fdu76uiswgnkfvukqfujofxjfo7vzoht2rndyhxyd.onion) |
+| Space | [spacednczzrstmwlrt2olozfyrxcnrn3seyz2t4nhigujx5yivfy23id.onion](http://spacednczzrstmwlrt2olozfyrxcnrn3seyz2t4nhigujx5yivfy23id.onion) |
 
 ## Wiki
 
@@ -48,8 +49,10 @@
 | Bitcoin | URL |
 | --- | --- |
 | Electrum Wallet | [electrum.org](https://electrum.org) |
+| Samourai Wallet | [samouraiwallet.com](https://samouraiwallet.com) |
 | Wasabi Wallet | [wasabiukrxmkdgve5kynjztuovbg43uxcbcxn6y2okcrsg7gb6jdmbad.onion](http://wasabiukrxmkdgve5kynjztuovbg43uxcbcxn6y2okcrsg7gb6jdmbad.onion) |
 | Blockchair | [blkchairbknpn73cfjhevhla7rkp4ed5gg2knctvv7it4lioy22defid.onion](http://blkchairbknpn73cfjhevhla7rkp4ed5gg2knctvv7it4lioy22defid.onion) |
+| Blockstream | [explorerzydxu5ecjrkwceayqybizmpjjznk5izmitf2modhcusuqlid.onion](http://explorerzydxu5ecjrkwceayqybizmpjjznk5izmitf2modhcusuqlid.onion) |
 | mempool | [mempoolhqx4isw62xs7abwphsq7ldayuidyx2v2oethdhhj6mlo2r6ad.onion](http://mempoolhqx4isw62xs7abwphsq7ldayuidyx2v2oethdhhj6mlo2r6ad.onion) |
 | Monero | [monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion](http://monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion) |
 
@@ -71,7 +74,7 @@
 | E-mail | URL |
 | --- | --- |
 | ProtonMail | [protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion](http://protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion) |
-| DNMX | [hxuzjtocnzvv5g2rtg2bhwkcbupmk7rclb6lly3fo4tvqkk5oyrv3nid.onion](http://hxuzjtocnzvv5g2rtg2bhwkcbupmk7rclb6lly3fo4tvqkk5oyrv3nid.onion) |
+| DNMX | [dnmxjaitaiafwmss2lx7tbs5bv66l7vjdmb5mtb3yqpxqhk3it5zivad.onion](http://dnmxjaitaiafwmss2lx7tbs5bv66l7vjdmb5mtb3yqpxqhk3it5zivad.onion) |
 | Mail2Tor | [mail2torjgmxgexntbrmhvgluavhj7ouul5yar6ylbvjkxwqf6ixkwyd.onion](http://mail2torjgmxgexntbrmhvgluavhj7ouul5yar6ylbvjkxwqf6ixkwyd.onion) |
 | Onion Mail | [pflujznptk5lmuf6xwadfqy6nffykdvahfbljh7liljailjbxrgvhfid.onion](http://pflujznptk5lmuf6xwadfqy6nffykdvahfbljh7liljailjbxrgvhfid.onion) |
 | Elude | [eludemailxhnqzfmxehy3bk5guyhlxbunfyhkcksv4gvx6d3wcf6smad.onion](http://eludemailxhnqzfmxehy3bk5guyhlxbunfyhkcksv4gvx6d3wcf6smad.onion) |
@@ -100,6 +103,7 @@
 | Dark Matter | [dark3i5wry7zl7hdpmidmaflve7cmxzhvhpoutrryb5vd44qc52tbhad.onion](http://dark3i5wry7zl7hdpmidmaflve7cmxzhvhpoutrryb5vd44qc52tbhad.onion) |
 | ProPublica | [p53lf57qovyuvwsc6xnrppyply3vtqm7l6pcobkmyqsiofyeznfu5uqd.onion](http://p53lf57qovyuvwsc6xnrppyply3vtqm7l6pcobkmyqsiofyeznfu5uqd.onion) |
 | The Intercept | [27m3p2uv7igmj6kvd4ql3cct5h3sdwrsajovkkndeufumzyfhlfev4qd.onion](https://27m3p2uv7igmj6kvd4ql3cct5h3sdwrsajovkkndeufumzyfhlfev4qd.onion) |
+| The Tor Times | [tortimeswqlzti2aqbjoieisne4ubyuoeiiugel2layyudcfrwln76qd.onion](http://tortimeswqlzti2aqbjoieisne4ubyuoeiiugel2layyudcfrwln76qd.onion) |
 | BBC News | [bbcnewsd73hkzno2ini43t4gblxvycyac5aw4gnv7t2rccijh7745uqd.onion](https://www.bbcnewsd73hkzno2ini43t4gblxvycyac5aw4gnv7t2rccijh7745uqd.onion) |
 
 ## Books
@@ -126,7 +130,8 @@
 | DarkBay | [darkbayx7a4sosoo4hqvoljqelgkusjlrqmt237ls6hndbplmel55oad.onion](http://darkbayx7a4sosoo4hqvoljqelgkusjlrqmt237ls6hndbplmel55oad.onion) |
 | DarkFox | [57d5j6hfzfpsfev6c7f5ltney5xahudevvttfmw4lrtkt42iqdrkxmqd.onion](http://57d5j6hfzfpsfev6c7f5ltney5xahudevvttfmw4lrtkt42iqdrkxmqd.onion) |
 | Drugs Empire | [drugsednqhasbyoyg2oekzbnllbujro54zrogqbf3p6e7qflxti5eeqd.onion](http://drugsednqhasbyoyg2oekzbnllbujro54zrogqbf3p6e7qflxti5eeqd.onion) |
-| Hacked Databases | [hackedabm6ejvmh7xiiqdq3ptflorhdvjurhheqbovlu64xi3zbrlpad.onion](http://hackedabm6ejvmh7xiiqdq3ptflorhdvjurhheqbovlu64xi3zbrlpad.onion) |
+| Fixed Matches | [fixedb4cmkjnxokoduugqyob7j3c5bzm3anh7j5nmchks3qhv3f2mnqd.onion](http://fixedb4cmkjnxokoduugqyob7j3c5bzm3anh7j5nmchks3qhv3f2mnqd.onion) |
+| Hacked Databases | [leaksndi6i6m2ji6ozulqe4imlrqn6wrgjlhxe25vremvr3aymm4aaid.onion](http://leaksndi6i6m2ji6ozulqe4imlrqn6wrgjlhxe25vremvr3aymm4aaid.onion) |
 | Horizon | [wfhk7qy6ycihylvls7xrmlyp3elin3k6ezyee4ovp3oj2wudrhmhgwid.onion](http://wfhk7qy6ycihylvls7xrmlyp3elin3k6ezyee4ovp3oj2wudrhmhgwid.onion) |
 | Imperial | [shop6bpuax4uk53slpyt56bhl43f2cefpcejwyrbtvcfugujldt3eyqd.onion](http://shop6bpuax4uk53slpyt56bhl43f2cefpcejwyrbtvcfugujldt3eyqd.onion) |
 | PayPal World | [h56izbbvplxoedu7rnqyzgqkkxrriqhoq6kl4g3xx2mjwauxdpyuhlqd.onion](http://h56izbbvplxoedu7rnqyzgqkkxrriqhoq6kl4g3xx2mjwauxdpyuhlqd.onion) |
