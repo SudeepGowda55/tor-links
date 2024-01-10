@@ -1,6 +1,6 @@
 # Tor link list 2024
 
-:warning: Links work only in Tor Browser. Download it from: https://www.torproject.org/download/
+⚠️ Links work only in Tor Browser. Download it from: [https://www.torproject.org/download/](https://www.torproject.org/download/)
 
 ## Catalogues
 
@@ -180,11 +180,11 @@ To enter darknet, download Tor Browser. It’s a modified Firefox that allows ac
 
 You may get Tor Browser for Windows, Linux, Mac OS and Android here:
 
-https://www.torproject.org/download/
+[https://www.torproject.org/download/](https://www.torproject.org/download/)
 
 For iOS the recommended browser is Onion Browser:
 
-https://onionbrowser.com/
+[https://onionbrowser.com](https://onionbrowser.com)
 
 # Is it legal to enter dark web?
 
@@ -248,4 +248,4 @@ Tor is supported by US government, many NGOs, private foundations, research inst
 
 # Source
 
-https://medium.com/@darknethome/how-to-enter-darknet-in-2021-b55532cdc3f9
+[https://medium.com/@darknethome/how-to-enter-darknet-in-2021-b55532cdc3f9](https://medium.com/@darknethome/how-to-enter-darknet-in-2021-b55532cdc3f9)
