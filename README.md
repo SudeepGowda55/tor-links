@@ -1,18 +1,21 @@
-# Tor link list 2023
+# Tor link list 2024
 
-:warning: The following links work only in Tor Browser. Download it from: https://www.torproject.org/download/
+:warning: Links work only in Tor Browser. Download it from: https://www.torproject.org/download/
 
 ## Catalogues
 
 | Catalogue | URL |
 | --- | --- |
 | Darknet Home | [catalogpwwlccc5nyp3m3xng6pdx3rdcknul57x6raxwf4enpw3nymqd.onion](http://catalogpwwlccc5nyp3m3xng6pdx3rdcknul57x6raxwf4enpw3nymqd.onion) |
+| FindTor Dir | [findtorroveq5wdnipkaojfpqulxnkhblymc7aramjzajcvpptd4rjqd.onion/directory](http://findtorroveq5wdnipkaojfpqulxnkhblymc7aramjzajcvpptd4rjqd.onion/directory) |
 | Dark Dir | [l7vh56hxm3t4tzy75nxzducszppgi45fyx2wy6chujxb2rhy7o5r62ad.onion](http://l7vh56hxm3t4tzy75nxzducszppgi45fyx2wy6chujxb2rhy7o5r62ad.onion) |
 | Shops Dir | [vxmua4uvg7vp5ssnvx5gexrr2nxso3wwvjwagdub67vcombj4kf4i4qd.onion](http://vxmua4uvg7vp5ssnvx5gexrr2nxso3wwvjwagdub67vcombj4kf4i4qd.onion) |
+| Product Dir | [6o7yjljdqx3ag5br7kcq64a5hipzid3lrp5ucjrxkkaj3lqjnfinmuqd.onion](http://6o7yjljdqx3ag5br7kcq64a5hipzid3lrp5ucjrxkkaj3lqjnfinmuqd.onion) | 
 | Mega Links | [megalzwink435kangsseahebpbp3teedi4jjt64ne2g6d3oqy3qlweid.onion](http://megalzwink435kangsseahebpbp3teedi4jjt64ne2g6d3oqy3qlweid.onion) |
 | Hidden Links | [wclekwrf2aclunlmuikf2bopusjfv66jlhwtgbiycy5nw524r6ngioid.onion](http://wclekwrf2aclunlmuikf2bopusjfv66jlhwtgbiycy5nw524r6ngioid.onion) |
 | Nexus | [nexusxg6rr5e2ue6gdjo6oassw36lsx5cx6y3r5ojneo53kynv3rqgyd.onion](http://nexusxg6rr5e2ue6gdjo6oassw36lsx5cx6y3r5ojneo53kynv3rqgyd.onion) |
 | Tor Node | [tornode3tnrtzgqwd3vmxdumucddqfd6zk7icu4wzdwxo5c3zn2xqfqd.onion](http://tornode3tnrtzgqwd3vmxdumucddqfd6zk7icu4wzdwxo5c3zn2xqfqd.onion) |
+| tor.taxi | [tortaxi2dev6xjwbaydqzla77rrnth7yn2oqzjfmiuwn5h6vsk2a4syd.onion](http://tortaxi2dev6xjwbaydqzla77rrnth7yn2oqzjfmiuwn5h6vsk2a4syd.onion) |
 | Tor Links | [torlinkv7cft5zhegrokjrxj2st4hcimgidaxdmcmdpcrnwfxrr2zxqd.onion](http://torlinkv7cft5zhegrokjrxj2st4hcimgidaxdmcmdpcrnwfxrr2zxqd.onion) |
 
 ## Search engines
@@ -36,12 +39,14 @@
 | Fenix | [fenixnjoy6gcmcihl5fnhjqw6k7j6ujvggk4467cgl5lfsoingndoeyd.onion](http://fenixnjoy6gcmcihl5fnhjqw6k7j6ujvggk4467cgl5lfsoingndoeyd.onion) |
 | TorLanD | [torlgu6zhhtwe73fdu76uiswgnkfvukqfujofxjfo7vzoht2rndyhxyd.onion](http://torlgu6zhhtwe73fdu76uiswgnkfvukqfujofxjfo7vzoht2rndyhxyd.onion) |
 | Space | [spacednczzrstmwlrt2olozfyrxcnrn3seyz2t4nhigujx5yivfy23id.onion](http://spacednczzrstmwlrt2olozfyrxcnrn3seyz2t4nhigujx5yivfy23id.onion) |
+| No.9 | [nonine6upka6kmnkc4mlpvkp4tgua53euk26t22u7lsugrn6cibzstyd.onion](http://nonine6upka6kmnkc4mlpvkp4tgua53euk26t22u7lsugrn6cibzstyd.onion) |
 
 ## Wiki
 
 | Wiki | URL |
 | --- | --- |
 | Hidden Wiki | [wiki2zkamfya6mnyvk4aom4yjyi2kwsz7et3e4wnikcrypqv63rsskid.onion](http://wiki2zkamfya6mnyvk4aom4yjyi2kwsz7et3e4wnikcrypqv63rsskid.onion) |
+| Learn Tor | [findtorroveq5wdnipkaojfpqulxnkhblymc7aramjzajcvpptd4rjqd.onion/learn](http://findtorroveq5wdnipkaojfpqulxnkhblymc7aramjzajcvpptd4rjqd.onion/learn) |
 | Bitcoin Wiki | [bitcoin.it](https://bitcoin.it) |
 
 ## Bitcoin
@@ -54,7 +59,14 @@
 | Blockchair | [blkchairbknpn73cfjhevhla7rkp4ed5gg2knctvv7it4lioy22defid.onion](http://blkchairbknpn73cfjhevhla7rkp4ed5gg2knctvv7it4lioy22defid.onion) |
 | Blockstream | [explorerzydxu5ecjrkwceayqybizmpjjznk5izmitf2modhcusuqlid.onion](http://explorerzydxu5ecjrkwceayqybizmpjjznk5izmitf2modhcusuqlid.onion) |
 | mempool | [mempoolhqx4isw62xs7abwphsq7ldayuidyx2v2oethdhhj6mlo2r6ad.onion](http://mempoolhqx4isw62xs7abwphsq7ldayuidyx2v2oethdhhj6mlo2r6ad.onion) |
+
+## Monero
+
+| Monero | URL |
+| --- | --- |
 | Monero | [monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion](http://monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion) |
+| Feather Wallet | [featherdvtpi7ckdbkb2yxjfwx3oyvr3xjz3oo4rszylfzjdg6pbm3id.onion](http://featherdvtpi7ckdbkb2yxjfwx3oyvr3xjz3oo4rszylfzjdg6pbm3id.onion) |
+| KYCnot.me | [kycnotmezdiftahfmc34pqbpicxlnx3jbf5p7jypge7gdvduu7i6qjqd.onion](http://kycnotmezdiftahfmc34pqbpicxlnx3jbf5p7jypge7gdvduu7i6qjqd.onion) | 
 
 ## Hacking
 
@@ -68,6 +80,7 @@
 | onion.debian.org | [jvgypgbnfyvfopg5msp6nwr2sl2fd6xmnguq35n7rfkw3yungjn2i4yd.onion](http://jvgypgbnfyvfopg5msp6nwr2sl2fd6xmnguq35n7rfkw3yungjn2i4yd.onion) |
 | DEF CON conference | [g7ejphhubv5idbbu3hb3wawrs5adw7tkx7yjabnf65xtzztgg4hcsqqd.onion](http://g7ejphhubv5idbbu3hb3wawrs5adw7tkx7yjabnf65xtzztgg4hcsqqd.onion) |
 | Webpage archive | [archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion](http://archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion) |
+| Tor Project | [2gzyxa5ihm7nsggfxnu52rck2vv4rvmdlkiu3zzui5du4xyclen53wid.onion](http://2gzyxa5ihm7nsggfxnu52rck2vv4rvmdlkiu3zzui5du4xyclen53wid.onion) |
 
 ## E-mail
 
@@ -78,6 +91,10 @@
 | Mail2Tor | [mail2torjgmxgexntbrmhvgluavhj7ouul5yar6ylbvjkxwqf6ixkwyd.onion](http://mail2torjgmxgexntbrmhvgluavhj7ouul5yar6ylbvjkxwqf6ixkwyd.onion) |
 | Onion Mail | [pflujznptk5lmuf6xwadfqy6nffykdvahfbljh7liljailjbxrgvhfid.onion](http://pflujznptk5lmuf6xwadfqy6nffykdvahfbljh7liljailjbxrgvhfid.onion) |
 | Elude | [eludemailxhnqzfmxehy3bk5guyhlxbunfyhkcksv4gvx6d3wcf6smad.onion](http://eludemailxhnqzfmxehy3bk5guyhlxbunfyhkcksv4gvx6d3wcf6smad.onion) |
+| Cock.li | [rurcblzhmdk22kttfkel2zduhyu3r6to7knyc7wiorzrx5gw4c3lftad.onion](http://rurcblzhmdk22kttfkel2zduhyu3r6to7knyc7wiorzrx5gw4c3lftad.onion) |
+| Morke | [6n5nbusxgyw46juqo3nt5v4zuivdbc7mzm74wlhg7arggetaui4yp4id.onion](http://6n5nbusxgyw46juqo3nt5v4zuivdbc7mzm74wlhg7arggetaui4yp4id.onion) |
+| SecTor | [sector2nyjrxphgrj3cvnueanomz4trvgyxofvu3cexltoxuegtlmzid.onion](http://sector2nyjrxphgrj3cvnueanomz4trvgyxofvu3cexltoxuegtlmzid.onion) |
+| riseup.net | [vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion) |
 
 ## Social
 
@@ -87,6 +104,8 @@
 | Ramble | [rambleeeqrhty6s5jgefdfdtc6tfgg4jj6svr4jpgk4wjtg3qshwbaad.onion](http://rambleeeqrhty6s5jgefdfdtc6tfgg4jj6svr4jpgk4wjtg3qshwbaad.onion) |
 | Dread | [dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion](http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion) |
 | Reddit | [reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion](https://www.reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion) |
+| Raddle | [c32zjeghcp5tj3kb72pltz56piei66drc63vkhn5yixiyk4cmerrjtid.onion](http://c32zjeghcp5tj3kb72pltz56piei66drc63vkhn5yixiyk4cmerrjtid.onion) |
+| Pitch | [pitchprash4aqilfr7sbmuwve3pnkpylqwxjbj2q5o4szcfeea6d27yd.onion](http://pitchprash4aqilfr7sbmuwve3pnkpylqwxjbj2q5o4szcfeea6d27yd.onion) |
 | Hidden Answers | [7eoz4h2nvw4zlr7gvlbutinqqpm546f5egswax54az6lt2u7e3t6d7yd.onion](http://7eoz4h2nvw4zlr7gvlbutinqqpm546f5egswax54az6lt2u7e3t6d7yd.onion) |
 | Nitter | [3nzoldnxplag42gqjs23xvghtzf6t6yzssrtytnntc6ppc7xxuoneoad.onion](http://3nzoldnxplag42gqjs23xvghtzf6t6yzssrtytnntc6ppc7xxuoneoad.onion) |
 | Twitter | [twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion](https://twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion) |
@@ -104,6 +123,7 @@
 | ProPublica | [p53lf57qovyuvwsc6xnrppyply3vtqm7l6pcobkmyqsiofyeznfu5uqd.onion](http://p53lf57qovyuvwsc6xnrppyply3vtqm7l6pcobkmyqsiofyeznfu5uqd.onion) |
 | The Intercept | [27m3p2uv7igmj6kvd4ql3cct5h3sdwrsajovkkndeufumzyfhlfev4qd.onion](https://27m3p2uv7igmj6kvd4ql3cct5h3sdwrsajovkkndeufumzyfhlfev4qd.onion) |
 | The Tor Times | [tortimeswqlzti2aqbjoieisne4ubyuoeiiugel2layyudcfrwln76qd.onion](http://tortimeswqlzti2aqbjoieisne4ubyuoeiiugel2layyudcfrwln76qd.onion) |
+| New York Times | [nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion](https://www.nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion) |
 | BBC News | [bbcnewsd73hkzno2ini43t4gblxvycyac5aw4gnv7t2rccijh7745uqd.onion](https://www.bbcnewsd73hkzno2ini43t4gblxvycyac5aw4gnv7t2rccijh7745uqd.onion) |
 
 ## Books
@@ -147,11 +167,12 @@
 | Other | URL |
 | --- | --- |
 | Beneath VT | [bvten5svsltfpxrxl72ukqxixwo2m5ek5svmcxgrmkta4tbmiemuibid.onion](http://bvten5svsltfpxrxl72ukqxixwo2m5ek5svmcxgrmkta4tbmiemuibid.onion) |
+| Daniel | [danielas3rtn54uwmofdo3x2bsdifr47huasnmbgqzfrec5ubupvtpid.onion](http://danielas3rtn54uwmofdo3x2bsdifr47huasnmbgqzfrec5ubupvtpid.onion) |
 | EscrowLab | [escrow4ywsfqnccvrikzdkk7dky35inn7uxb3qhid5uvcklsocwdvhid.onion](http://escrow4ywsfqnccvrikzdkk7dky35inn7uxb3qhid5uvcklsocwdvhid.onion) |
 | EtherCalc | [bcton4zbvzauoufghypxhuslbfcch44akcn3geedhf4nk2vlqdb25ryd.onion](http://bcton4zbvzauoufghypxhuslbfcch44akcn3geedhf4nk2vlqdb25ryd.onion) |
 | Hidden Reviews | [u5lyidiw4lpkonoctpqzxgyk6xop7w7w3oho4dzzsi272rwnjhyx7ayd.onion](http://u5lyidiw4lpkonoctpqzxgyk6xop7w7w3oho4dzzsi272rwnjhyx7ayd.onion) |
+| Simply Translate | [xxtbwyb5z5bdvy2f6l2yquu5qilgkjeewno4qfknvb3lkg3nmoklitid.onion](http://xxtbwyb5z5bdvy2f6l2yquu5qilgkjeewno4qfknvb3lkg3nmoklitid.onion) |
 | Privacy International | [privacy2ws3ora5p4qpzptqr32qm54gf5ifyzvo5bhl7bb254c6nbiyd.onion](http://privacy2ws3ora5p4qpzptqr32qm54gf5ifyzvo5bhl7bb254c6nbiyd.onion) |
-| Satanic Ceremony | [ho2hua2hfduv6f7hcbzdj2e6qdn4szgyy2jjnx545v4z3epq7uyrscid.onion](http://ho2hua2hfduv6f7hcbzdj2e6qdn4szgyy2jjnx545v4z3epq7uyrscid.onion) |
 
 # How to access darknet?
 
@@ -191,17 +212,29 @@ The Web consists of three large areas:
 - deep web — resources not indexed by search engines, because they are protected by password or stored behind public services, e.g. companies internal platforms, medical records, research papers, legal documents
 - dark web — resources that can be accessed only with specific software, they are not accessible from standard web browser, e.g. whistleblowers secure drops, secret communication channels for activist, journalists, human rights activists but also many illegal marketplaces and shops
 
-# What are hidden services?
+# What are onion services?
 
-Hidden services are accessible only within Tor network. Their domain names end with .onion. They are not indexed by any public search engine. The only way to enter .onion sites is to know equal address.
+Onion services are accessible only within Tor network. Their domain names end with .onion. They are not indexed by any public search engine. The only way to enter .onion sites is to know equal address.
 
-# How to find hidden services
+# How to find onion services?
 
-There are many link lists, wikis and catalogues where you can find addresses to .onion sites. There are also many link lists in clearnet but majority of them is not updated and most links do not work. It’s standard that hidden services work for small amount of time and dissappear forever.
+There are many link lists, wikis and catalogues where you can find addresses to .onion sites. There are also many link lists in clearnet but majority of them is not updated and most links do not work. Onion services usually work for small amount of time and dissappear forever.
 
-There are some darknet search engines mostly created by amateurs and they are very limited due to hidden services nature.
+There are many darknet search engines. They are very limited due to anonymous onion services nature.
 
-Before accessing any darknet site, make sure that it’s legal in your country to browse content that they contain.
+Before accessing any darknet website, make sure that it’s legal in your country to browse content that they contain.
+
+# Link doesn't work - is the website dead?
+
+Tor network is run by volunteers and Tor relays are often overloaded. If you can't access an .onion link or you see an error, this doesn't always mean that the website was shut down. In most cases .onion service is working but unreachable due to network overload. Try to open the .onion website in few hours or days. Add the website to bookmarks by pressing CTRL+D to save its link in Tor Browser.
+
+The most common reasons you can't access an .onion link are:
+
+- the website is off temporarily (try again later)
+- the website is under high load (e.g. DDOS attack)
+- slow relays (press Ctrl+Shift+L to try another route)
+- unstable connection (check your connectivity)
+- your ISP blocks Tor (configure Tor Browser to use a bridge)
 
 # Who created Tor?
 
