@@ -80,6 +80,7 @@
 | onion.debian.org | [jvgypgbnfyvfopg5msp6nwr2sl2fd6xmnguq35n7rfkw3yungjn2i4yd.onion](http://jvgypgbnfyvfopg5msp6nwr2sl2fd6xmnguq35n7rfkw3yungjn2i4yd.onion) |
 | DEF CON conference | [g7ejphhubv5idbbu3hb3wawrs5adw7tkx7yjabnf65xtzztgg4hcsqqd.onion](http://g7ejphhubv5idbbu3hb3wawrs5adw7tkx7yjabnf65xtzztgg4hcsqqd.onion) |
 | Webpage archive | [archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion](http://archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion) |
+| Brave browser | [brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion](https://brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion) |
 | Tor Project | [2gzyxa5ihm7nsggfxnu52rck2vv4rvmdlkiu3zzui5du4xyclen53wid.onion](http://2gzyxa5ihm7nsggfxnu52rck2vv4rvmdlkiu3zzui5du4xyclen53wid.onion) |
 
 ## E-mail
@@ -185,6 +186,10 @@ You may get Tor Browser for Windows, Linux, Mac OS and Android here:
 For iOS the recommended browser is Onion Browser:
 
 [https://onionbrowser.com](https://onionbrowser.com)
+
+Alternatively, if you prefer Chromium based browser, you may use Brave. To enable Tor, press Alt+Shift+N or tap ≡ button in the top-right corner and select "New Private Window with Tor".
+
+[https://brave.com](https://brave.com)
 
 # Is it legal to enter dark web?
 
